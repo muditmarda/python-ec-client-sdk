@@ -11,7 +11,7 @@ setuptools.setup(
     url="https://github.com/vaultbank/python-ec-client-sdk",
     packages=["ec_wallet"],
     install_requires=[
-        "fastecdsa==1.7.5",
+        "fastecdsa==2.1.2",
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
